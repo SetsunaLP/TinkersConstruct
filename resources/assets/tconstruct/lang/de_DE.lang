@@ -1,0 +1,648 @@
+################
+#    Blöcke    #
+################
+
+tile.tconstruct.tooltables.craftingstation.name=Werkstation
+tile.tconstruct.tooltables.stenciltable.name=Schablonentisch
+tile.tconstruct.tooltables.partbuilder.name=Teilstanzer
+tile.tconstruct.tooltables.toolstation.name=Werkzeugstation
+tile.tconstruct.tooltables.patternchest.name=Schablonentruhe
+tile.tconstruct.tooltables.partchest.name=Werkzeugteile-Kiste
+tile.tconstruct.toolforge.name=Werkzeugschmiede
+
+tile.tconstruct.soil.grout.name=Mörtel
+tile.tconstruct.soil.grout.tooltip=Ich bin Grout!
+tile.tconstruct.soil.slimy_mud_green.name=Grüner Schleimmatsch
+tile.tconstruct.soil.slimy_mud_green.tooltip=Verlangsamt dich aber lässt dich höher springen
+tile.tconstruct.soil.slimy_mud_blue.name=Blauer Schleimmatsch
+tile.tconstruct.soil.slimy_mud_blue.tooltip=tile.tconstruct.soil.slimy_mud_green.tooltip
+tile.tconstruct.soil.slimy_mud_magma.name=Magmamatsch
+tile.tconstruct.soil.slimy_mud_magma.tooltip=tile.tconstruct.soil.slimy_mud_green.tooltip
+tile.tconstruct.soil.graveyard.name=Friedhofserde
+tile.tconstruct.soil.graveyard.tooltip=Heilt Untote!
+tile.tconstruct.soil.consecrated.name=Geweihte Erde
+tile.tconstruct.soil.consecrated.tooltip=Schadet Untoten!
+tile.tconstruct.soil.mudbrick.name=Schlammziegel
+
+tile.tconstruct.ore.cobalt.name=Kobalterz
+tile.tconstruct.ore.ardite.name=Arditerz
+
+tile.tconstruct.metal.cobalt.name=Kobaltblock
+tile.tconstruct.metal.ardite.name=Arditblock
+tile.tconstruct.metal.manyullyn.name=Manyullynblock
+tile.tconstruct.metal.knightslime.name=Ritterschleimblock
+tile.tconstruct.metal.pigiron.name=Schweinseisenblock
+tile.tconstruct.metal.alubrass.name=Alumessingblock
+tile.tconstruct.metal.silky_jewel.name=Seidenjuwelblock
+
+tile.tconstruct.firewood.lavawood.name=Lavaholz
+tile.tconstruct.firewood.firewood.name=Flammenholz
+
+tile.tconstruct.slime.green.name=Grüner Schleimblock
+tile.tconstruct.slime.blue.name=Blauer Schleimblock
+tile.tconstruct.slime.purple.name=Violetter Schleimblock
+tile.tconstruct.slime.blood.name=Blutplasmablock
+tile.tconstruct.slime.magma.name=Magmaschleimblock
+tile.tconstruct.slime.tooltip=Lässt sich nicht verschieben.
+
+tile.tconstruct.slime_congealed.green.name=Geronnener Grüner Schleimblock
+tile.tconstruct.slime_congealed.blue.name=Geronnener Blauer Schleimblock
+tile.tconstruct.slime_congealed.purple.name=Geronnener Violetter Schleimblock
+tile.tconstruct.slime_congealed.blood.name=Geronnener Blutplasmablock
+tile.tconstruct.slime_congealed.magma.name=Geronnener Magmaschleimblock
+tile.tconstruct.slime_congealed.tooltip=Lässt dich sehr hoch springen
+
+tile.tconstruct.slime_dirt.green.name=Grüne Schleimerde
+tile.tconstruct.slime_dirt.blue.name=Blaue Schleimerde
+tile.tconstruct.slime_dirt.purple.name=Violette Schleimerde
+tile.tconstruct.slime_dirt.blood.name=Blutplasmaerde
+tile.tconstruct.slime_dirt.magma.name=Magmaschleimerde
+tile.tconstruct.slime_dirt.tooltip=Schleimig,lässt dich aber höher springen.
+
+tile.tconstruct.slime_grass.vanilla.name=Schleimgras
+tile.tconstruct.slime_grass.green.name=Grünes Schleimgras
+tile.tconstruct.slime_grass.blue.name=Blaues Schleimgras
+tile.tconstruct.slime_grass.purple.name=Purple Schleimgras
+tile.tconstruct.slime_grass.blood.name=Blutplasmagras
+tile.tconstruct.slime_grass.magma.name=Magmaschleimgras
+tile.tconstruct.slime_grass.tooltip=So weich! Und es lässt dich höher springen
+
+tile.tconstruct.slime_leaves.blue.name=Schleimblätter
+tile.tconstruct.slime_leaves.purple.name=Schleimblätter
+tile.tconstruct.slime_leaves.orange.name=Schleimblätter
+
+tile.tconstruct.slime_grass_tall.tall_grass.name=Hohes Schleimgras
+tile.tconstruct.slime_grass_tall.fern.name=Schleimfarn
+
+tile.tconstruct.slime_sapling.blue.name=Blauer Schleimsetzling
+tile.tconstruct.slime_sapling.purple.name=Violetter Schleimsetzling
+tile.tconstruct.slime_sapling.orange.name=Magmaschleimsetzling
+
+tile.tconstruct.slime_vine_blue.name=Blaue Schleimranke
+tile.tconstruct.slime_vine_blue_mid.name=Blaue Schleimranke
+tile.tconstruct.slime_vine_blue_end.name=Blaue Schleimranke
+tile.tconstruct.slime_vine_purple.name=Violette Schleimranke
+tile.tconstruct.slime_vine_purple_mid.name=Violette Schleimranke
+tile.tconstruct.slime_vine_purple_end.name=Violette Schleimranke
+
+tile.tconstruct.seared.stone.name=Gebrannter Stein
+tile.tconstruct.seared.cobble.name=Gebrannter Bruchstein
+tile.tconstruct.seared.paver.name=Gebrannte Pflasterung
+tile.tconstruct.seared.brick.name=Gebrannte Ziegelsteine
+tile.tconstruct.seared.brick_cracked.name=Rissige Gebrannte Ziegelsteine
+tile.tconstruct.seared.brick_fancy.name=Schicke Gebrannte Ziegelsteine
+tile.tconstruct.seared.brick_square.name=Gebrannte Fliesen
+tile.tconstruct.seared.road.name=Gebrannte Straße
+tile.tconstruct.seared.creeper.name=Gemusterte Gebrannte Ziegelsteine
+tile.tconstruct.seared.tooltip=Teil einer Schmelzerei, auch als Deko verwendbar
+
+tile.tconstruct.smeltery_controller.name=Schmelzereikonsole
+tile.tconstruct.smeltery_controller.tooltip=Das Hirn der Schmelzerei
+tile.tconstruct.smeltery_io.drain.name=Schmelzerei Ausguss
+tile.tconstruct.casting.table.name=Gusstisch
+tile.tconstruct.casting.basin.name=Gussbecken
+tile.tconstruct.faucet.name=Gusshahn
+tile.tconstruct.seared_tank.tank.name=Lavatank
+tile.tconstruct.seared_tank.gauge.name=Messglas
+tile.tconstruct.seared_tank.window.name=Schmelzereifenster
+
+tile.tconstruct.stone_torch.name=Steinfackel
+tile.tconstruct.stone_ladder.name=Steinleiter
+tile.tconstruct.wood_rail.name=Holzschiene
+tile.tconstruct.punji.name=Punji Spitzen
+tile.tconstruct.glow.name=Glühen
+
+
+###################
+#   Gegenstände   #
+###################
+
+# General Items
+item.tconstruct.edible.bacon.name=Bacon
+item.tconstruct.edible.slimeball_blue.name=Blauer Schleimball
+item.tconstruct.edible.slimeball_purple.name=Violetter Schleimball
+item.tconstruct.edible.slimeball_blood.name=Geronnenes Blut
+item.tconstruct.edible.slimeball_magma.name=Magmaschleimball
+
+item.tconstruct.materials.seared_brick.name=Gebrannter Ziegel
+item.tconstruct.materials.mud_brick.name=Schlammziegel
+item.tconstruct.materials.mud_brick.tooltip=Blöcke bauen für groß und klein
+item.tconstruct.materials.slimecrystal_green.name=Grüner Schleimkristall
+item.tconstruct.materials.slimecrystal_green.tooltip=Wird für Schleim-Werkzeuge benötigt
+item.tconstruct.materials.slimecrystal_blue.name=Blauer Schleimkristall
+item.tconstruct.materials.slimecrystal_blue.tooltip=item.tconstruct.materials.slimecrystal_green.tooltip
+item.tconstruct.materials.slimecrystal_magma.name=Magmaschleimkristall
+item.tconstruct.materials.slimecrystal_magma.tooltip=item.tconstruct.materials.slimecrystal_green.tooltip
+item.tconstruct.materials.expander_w.name=Horizontalexpander
+item.tconstruct.materials.expander_w.tooltip=Vergiss nicht die Beine!
+item.tconstruct.materials.expander_h.name=Vertikalexpander
+item.tconstruct.materials.expander_h.tooltip=Stemmst du überhaupt?
+item.tconstruct.materials.reinforcement.name=Verstärkung
+item.tconstruct.materials.reinforcement.tooltip="Verstärkt"-Verbesserung
+item.tconstruct.materials.silky_cloth.name=Seidiger Stoff
+item.tconstruct.materials.silky_jewel.name=Seidenjuwel
+item.tconstruct.materials.silky_jewel.tooltip="Behutsamkeit"-Verbesserung
+item.tconstruct.materials.necrotic_bone.name=Nekrotischer Knochen
+item.tconstruct.materials.necrotic_bone.tooltip="Nekrotisch"-Verbesserung
+item.tconstruct.materials.creative_modifier.name="Kreativ"-Verbesserung
+item.tconstruct.materials.creative_modifier.tooltip=Fügt eine zusätzliche Verbesserung hinzu
+
+item.tconstruct.ingots.cobalt.name=Kobaltbarren
+item.tconstruct.ingots.ardite.name=Arditbarren
+item.tconstruct.ingots.manyullyn.name=Manyullynbarren
+item.tconstruct.ingots.knightslime.name=Ritterschleimbarren
+item.tconstruct.ingots.knightslime.tooltip=Schleimig und metallisch aber auch Stein? Faszinierend!
+item.tconstruct.ingots.pigiron.name=Schweinseisenbarren
+item.tconstruct.ingots.pigiron.tooltip=Oink!
+item.tconstruct.ingots.alubrass.name=Alumessingbarren
+
+item.tconstruct.nuggets.cobalt.name=Kobaltnugget
+item.tconstruct.nuggets.ardite.name=Arditnugget
+item.tconstruct.nuggets.manyullyn.name=Manyullynnugget
+item.tconstruct.nuggets.knightslime.name=Ritterschleimnugget
+item.tconstruct.nuggets.pigiron.name=Schweinseisennugget
+item.tconstruct.nuggets.alubrass.name=Alumessingnugget
+
+item.tconstruct.pattern.blank=Blanke Schablone
+item.tconstruct.pattern.name=%sschablone
+item.tconstruct.cast.blank=Blanke Gussform
+item.tconstruct.cast.name=%sgussform
+item.tconstruct.clay_cast.name=%stongussform
+item.tconstruct.cast_custom.ingot.name=Barrengussform
+item.tconstruct.cast_custom.nugget.name=Nuggetgussform
+item.tconstruct.cast_custom.gem.name=Edelsteingussform
+item.tconstruct.cast_custom.plate.name=Plattengussform
+item.tconstruct.cast_custom.gear.name=Werkzeuggussform
+
+item.tconstruct.sharpening_kit.name=Schärfsatz
+item.tconstruct.sharpening_kit.tooltip=Mit Feuerstein kombiniert, erhöht es den Grablevel des Werkzeugs
+
+item.forge.bucketFilled.blood=Bluteimer
+
+# Tools
+item.tconstruct.pickaxe.name=Spitzhacke
+item.tconstruct.shovel.name=Schaufel
+item.tconstruct.hatchet.name=Beil
+item.tconstruct.mattock.name=Breithacke
+item.tconstruct.frypan.name=Bratpfanne
+item.tconstruct.battlesign.name=Kampfschild
+item.tconstruct.dagger.name=Dolch
+item.tconstruct.broadsword.name=Breitschwert
+item.tconstruct.longsword.name=Langschwert
+item.tconstruct.rapier.name=Rapier
+item.tconstruct.cutlass.name=Säbel
+
+item.tconstruct.hammer.name=Hammer
+item.tconstruct.excavator.name=Spaten
+item.tconstruct.lumberaxe.name=Breitaxt
+item.tconstruct.cleaver.name=Großschwert
+item.tconstruct.battleaxe.name=Streitaxt
+item.tconstruct.scythe.name=Sense
+
+# Tool Parts
+item.tconstruct.shard.name=Splitter
+
+item.tconstruct.pick_head.name=Spitzhackenkopf
+item.tconstruct.shovel_head.name=Schaufelkopf
+item.tconstruct.axe_head.name=Axtkopf
+item.tconstruct.pan_head.name=Pfanne
+item.tconstruct.sign_head.name=Schildplatte
+item.tconstruct.binding.name=Bindestück
+item.tconstruct.tool_rod.name=Werkzeuggriff
+item.tconstruct.knife_blade.name=Messerklinge
+item.tconstruct.sword_blade.name=Schwertklinge
+item.tconstruct.wide_guard.name=Breiter Schützer
+item.tconstruct.cross_guard.name=Kreuzschützer
+item.tconstruct.hand_guard.name=Handschützer
+item.tconstruct.full_guard.name=Gebogener Schützer
+
+#Large Tool Parts
+item.tconstruct.hammer_head.name=Hammerkopf
+item.tconstruct.excavator_head.name=Spatenkopf
+item.tconstruct.broad_axe_head.name=Breitaxtkopf
+item.tconstruct.large_plate.name=Große Platte
+item.tconstruct.tough_binding.name=Starkes Bindestück
+item.tconstruct.tough_tool_rod.name=Starker Werkzeuggriff
+item.tconstruct.scythe_head.name=Sensenkopf
+item.tconstruct.large_sword_blade.name=Große Schwertklinge
+
+# Material specific tools and toolparts
+# item.tconstruct.<tool>.<material>
+# item.tconstruct.pickaxe.wood=Holzspitzhacke
+
+# Gadgets
+item.tconstruct.slime_boots.name=Schleimstiefel
+item.tconstruct.slimesling.name=Schleimschlinge
+item.tconstruct.stone_stick.name=Steinstange
+
+item.tconstruct.fancy_frame.jewel.name=Schicker Rahmen
+item.tconstruct.fancy_frame.alubrass.name=Alumessingrahmen
+item.tconstruct.fancy_frame.cobalt.name=Kobaltrahmen
+item.tconstruct.fancy_frame.ardite.name=Arditrahmen
+item.tconstruct.fancy_frame.manyullyn.name=Manyullynrahmen
+item.tconstruct.fancy_frame.gold.name=Goldrahmen
+
+item.tconstruct.throwball.glow.name=Glühball
+item.tconstruct.throwball.glow.tooltip=Bitte nicht essen!
+item.tconstruct.throwball.efln.name=EFLN
+item.tconstruct.throwball.efln.tooltip=Explosiv! Zum Graben verwendbar
+
+#################
+#   Entities    #
+#################
+
+entity.tconstruct.blueslime.name=Blauer Schleim
+
+###################
+#  Flüssigkeiten  #
+###################
+
+fluid.tconstruct.stone.name=Geschmolzener Stein
+fluid.tconstruct.obsidian.name=Geschmolzenes Obsidian
+fluid.tconstruct.clay.name=Geschmolzener Lehm
+fluid.tconstruct.dirt.name=Flüssige Erde
+fluid.tconstruct.iron.name=Geschmolzenes Eisen
+fluid.tconstruct.gold.name=Geschmolzenes Gold
+fluid.tconstruct.pigiron.name=Geschmolzenes Schweinseisen
+fluid.tconstruct.cobalt.name=Geschmolzenes Kobalt
+fluid.tconstruct.ardite.name=Geschmolzenes Ardit
+fluid.tconstruct.manyullyn.name=Geschmolzenes Manyullyn
+fluid.tconstruct.knightslime.name=Geschmolzener Ritterschleim
+fluid.tconstruct.emerald.name=Geschmolzener Smaragd
+fluid.tconstruct.blood.name=Blut
+fluid.tconstruct.milk.name=Milch
+fluid.tconstruct.blueslime.name=Flüssiger blauer Schleim
+fluid.tconstruct.purpleslime.name=Flüssiger violetter Schleim
+fluid.tconstruct.brass.name=Geschmolzenes Messing
+fluid.tconstruct.copper.name=Geschmolzenes Kupfer
+fluid.tconstruct.tin.name=Geschmolzenes Zinn
+fluid.tconstruct.bronze.name=Geschmolzenes Bronze
+fluid.tconstruct.zinc.name=Geschmolzenes Zink
+fluid.tconstruct.lead.name=Geschmolzenes Blei
+fluid.tconstruct.nickel.name=Geschmolzenes Nickel
+fluid.tconstruct.silver.name=Geschmolzenes Silber
+fluid.tconstruct.electrum.name=Geschmolzenes Elektrum
+fluid.tconstruct.steel.name=Geschmolzener Stahl
+fluid.tconstruct.aluminum.name=Geschmolzenes Aluminum
+fluid.tconstruct.alubrass.name=Geschmolzenes Alumessing
+
+#################
+#     Tränke    #
+#################
+
+potion.slimebounce=Gummifuß
+
+#################
+#  Materialien  #
+#################
+# material.<identifier>.name
+# material.<identifier>.prefix
+# material.wood.prefix=Wooden %s - Used for stuff like "Wooden Pickaxe" if no specific name is given
+
+material.wood.name=Holz
+material.wood.prefix=Holz- %s
+material.stone.name=Stein
+material.flint.name=Feuerstein
+material.cactus.name=Kaktus
+material.obsidian.name=Obsidian
+material.prismarine.name=Prismarin
+material.netherrack.name=Netherstein
+material.endstone.name=End
+material.bone.name=Knochen
+material.paper.name=Papier
+material.sponge.name=Sponge
+material.firewood.name=Flammenholz
+material.slime.name=Schleim
+material.blueslime.name=Blauer Schleim
+material.blueslime.prefix=Schleim %s
+material.knightslime.name=Ritterschleim
+material.magmaslime.name=Magmaschleim
+material.ardite.name=Ardit
+material.cobalt.name=Kobalt
+material.manyullyn.name=Manyullyn
+material.iron.name=Eisen
+material.pigiron.name=Schweinseisen
+material.copper.name=Kupfer
+material.bronze.name=Bronze
+material.lead.name=Blei
+material.silver.name=Silber
+material.electrum.name=Elektrum
+material.steel.name=Stahl
+
+#################
+#  Statuswerte  #
+#################
+stat.head.name=Kopf
+stat.head.durability.name=Haltbarkeit
+stat.head.durability.desc=Der Basis-Haltbarkeitswert.\nErgibt mit den anderen Haltbarkeitswerten die Gesamthaltbarkeit.
+stat.head.miningspeed.name=Grab-Tempo
+stat.head.miningspeed.desc=Wie schnell man mit einem Kopf dieses Mateials Blöcke abbauen kann.\nKönnte von anderen Teilen beeinflusst werden.
+stat.head.harvestlevel.name=Grab-Level
+stat.head.harvestlevel.desc=Welche Blockart man mit diesem Kopf maximal abbauen kann.
+stat.head.attack.name=Schaden
+stat.head.attack.desc=Basis-Schaden.\nGesamtschaden hängt von dem Werkzeug an sich und den anderen \nTeilen ab.
+
+stat.handle.name=Griff
+stat.handle.modifier.name=Verbesserung
+stat.handle.modifier.desc=Wie gut sich das Material als Griff eignet.\nDie Gesamthaltbarkeit wird damit multipliziert.
+stat.handle.durability.name=stat.head.durability.name
+stat.handle.durability.desc=Wie lange das Material durchhält.\nGesamthaltbarkeit kann dadurch verändert werden.
+
+stat.extra.name=Extra
+stat.extra.durability.name=stat.head.durability.name
+stat.extra.durability.desc=Wie viel Haltbarkeit es beim gebrauch als Accessoire beiträgt.
+
+stat.mattock.axelevel.name=Axtkraft
+stat.mattock.shovellevel.name=Schaufelkraft
+
+################
+#   Merkmale   #
+################
+
+# traits are also modifiers, they use the same prefix so they don't have to be localized twice
+modifier.alien.name=Außerirdisch
+modifier.alien.desc=§oSomething is off...§r\n..but I can't tell what! Maybe time will tell.
+modifier.aquadynamic.name=Hydrodynamisch
+modifier.aquadynamic.desc=§oGanz schön nass hier!§r\nWasser macht dem Werkzeug nichts mehr \naus.
+modifier.aridiculous.name=Hitzeaktiv
+modifier.aridiculous.desc=§oEs geht heiß her!§r\nHeiße Umgebung steigert die Effektivität.
+modifier.autosmelt.name=Autoschmelzend
+modifier.autosmelt.desc=§oEin Ofen als Werkzeug!§r\nBlöcke schmelzen beim Abbauen.
+modifier.baconlicious.name=Baconlicious
+modifier.baconlicious.desc=§oBACON!§r\nVom schlagen Bacon bekommen, YAY!.
+modifier.cheap.name=Knauserig
+modifier.cheap.desc=§oOhne Fleiß keinen Preis!§r\nSteigert die Haltbarkeit nach der Reparatur.
+modifier.cheapskate.name=Billig
+modifier.cheapskate.desc=§oWie Unnütz!§r\nSchlechtes Material schwächt dein Werkzeug.
+modifier.coldblooded.name=Kaltblütig
+modifier.coldblooded.desc=§oSavage!§r\nVerursacht bei unbeschadeten Gegnern mehr Schaden.
+modifier.crude.name=Grob
+modifier.crude.desc=§oRüstung ist für luschen!§r\nMehr Schaden gegenüber gerüsteten Gegenern.
+modifier.crude.extra=Gegenüber ungerüsteten: +%s
+modifier.crumbling.name=Zerbröckelnd
+modifier.crumbling.desc=§o*Knirsch* *Knirsch*§r\nDas Werkzeug ist särker gegenüber \nBlöcken welche keines brauchen.
+modifier.dense.name=Dicht
+modifier.dense.desc=§oHärter....§r\nDein Werkzeug hält, trotz niedriger Haltbarkeit, länger.
+modifier.duritos.name=Duritae
+modifier.duritos.desc=§oSchmeckt nicht so gut wie es sich anhört.§r\nDein Werkzeug hält , meistens,länger.
+modifier.ecological.name=Ökologisch
+modifier.ecological.desc=§oKraft des Waldes!§r\nErneuerbare Werkstoffe sind gut, sie reparieren sich selbst!
+modifier.enderference.name=Enderferenz
+modifier.enderference.desc=§oAnti-Teleport!§r\nHindert einen Enderman für kurze Zeit am teleportieren.
+modifier.established.name=Lernbereit
+modifier.established.desc=§oKleiner EXP.-Bonus!§r\nDu kriegst mehr Erfahrung.
+modifier.flammable.name=Flammend
+modifier.flammable.desc=§oJunge, bist du heiß!§r\nGeblockte Angriffe lassen den Angreifer brennen.
+modifier.fractured.name=Zerbrechend
+modifier.fractured.desc=§oAutsch!§r\nDer Werkzeugschaden wird gesteigert.
+modifier.hellish.name=Höllisch
+modifier.hellish.desc=§oAus den tiefsten Tiefen!§r\nNon-Nether-Gegner erleiden zusätzlichen Schaden.
+modifier.hellish.extra=Gegenüber Non-Nethers: +%s
+modifier.holy.name=Heilig
+modifier.holy.desc=§oIn Licht gebadet!§r\nUntote erleiden größeren Schaden.
+modifier.holy.extra=modifier.smite.extra
+modifier.insatiable.name=Unersättlich
+modifier.insatiable.desc=§oVerschlinge!§r\nErhöht kontinuierlich den Schaden, senkt aber dementsprechend die Haltbarkeit.
+modifier.jagged.name=Gezackt
+modifier.jagged.desc=§oMoves like jagged!§r\nSenkt den Schaden mit abnehmender Haltbarkeit.
+modifier.jagged.extra=Bonus-Schaden: +%s
+modifier.lightweight.name=Leichtgewicht
+modifier.lightweight.desc=§oSchnell wie der Wind!§r\nErhöht die Geschwindigkeit des Werkzeugs.
+modifier.lightweight.extra=Bonus-Geschwindigkeit: +%s
+modifier.magnetic.name=Magnetisch
+modifier.magnetic.desc=§oWie funktionier das?!§r\nBeim schlagen lockt es mehr an?!
+modifier.momentum.name=Schwung
+modifier.momentum.desc=§oNicht zu weit ausholen!§r\nErhöht die Geschwindigkeit während des Grabens.
+modifier.petramor.name=Petramor
+modifier.petramor.desc=§oLecker Stein!§r\nDas Werkzeug absorbiert Stein was die Haltbarkeit erhöht.
+modifier.poisonous.name=Giftig
+modifier.poisonous.desc=§oNicht ganz bleifrei!§r\nVergiftet geschlagene Gegner.
+modifier.prickly.name=Dornig
+modifier.prickly.desc=§oAutsch!§r\nNiemand kann sich vor den Dornen retten.
+modifier.sharp.name=Scharf
+modifier.sharp.desc=§oDa hast du dich wohl geschnitten!§r\nGeschlagene Gegner bluten kurz.
+modifier.shocking.name=Elektrisch
+modifier.shocking.desc=§oSchockierend!§r\nRenne um es aufzuladen und schlage um es zu entladen.
+modifier.slimey.name=Schleimig
+modifier.slimey.desc=§oIihhh, klebrig!§r\nEs wäscht ab.
+modifier.spiky.name=Stachelig
+modifier.spiky.desc=§oStacheln machen es 200% cooler!§r\nBlocken fügt dem Angreifer schaden zu.
+modifier.splintering.name=Splitternd
+modifier.splintering.desc=§oEin Geschenk an deine Feinde!§r\nEin Schlag fügt mehr Schaden zu.
+modifier.splinters.name=Splitter
+modifier.splinters.desc=§oAutsch!§r\nPass auf dass du dir keinen Splitter einfängst!
+modifier.squeaky.name=Squeaky
+modifier.squeaky.desc=§oWie süß!.§r\nDein Werkzeug ist schön weich und und erhält Behutsakeit fügt allerdings keinen Schaden zu.
+modifier.stiff.name=Steif
+modifier.stiff.desc=§oUnbeweglich!§r\nBlocken senkt den genommenen Schaden.
+modifier.stonebound.name=Steingebunden
+modifier.stonebound.desc=§oYay Stein!§r\nDas Werkzeug baut Stein schneller ab, teilt aber weniger Schaden aus.
+modifier.stonebound.extra=Steingebundene Schnelligkeit: +%s
+modifier.superheat.name=Superheiß
+modifier.superheat.desc=§oVerbenn (dich) nicht!§r\nBonus-Schaden bei brennenden Gegnern.
+modifier.superheat.extra=Bonus-Schaden: +%s
+modifier.unnatural.name=Unnatürlich
+modifier.unnatural.desc=§oAbscheulich!§r\nDas Werkzeug baut Blöcke um so schneler ab desto höher dieses über dem benötigtem Grab-Level ist.
+modifier.tasty.name=Schmackhaft
+modifier.tasty.desc=§oOm Nom Nom§r\nIss lieber dein Werkzeug anstatt zu verhungern.
+modifier.writable.name=Beschriftbar
+modifier.writable.desc=§oIntellektuel!§r\nMehr Worte = Mehr Verbesserungen. Das kann nur logisch sein!
+
+####################
+#  Verbesserungen  #
+####################
+
+modifier.bane_of_arthopods.name=Nemesis der Gliederfüßer
+modifier.bane_of_arthopods.desc=§oPfui Spinne!§r\nSpinnen erleiden größeren Schaden.
+modifier.bane_of_arthopods.extra=Bonus-Schaden: +%s
+modifier.beheading.name=Köpfen
+modifier.beheading.desc=§oNur nicht den Kopf verlieren!§r\nPro Level erhälst du eine 10% Chance Den Kopf des Gegners bei seinen Tod zu erhalten.
+modifier.diamond.name=Diamant
+modifier.diamond.desc=§oBling Bling!§r\nErhöht die Haltbarkeit!
+modifier.emerald.name=Emerald
+modifier.emerald.desc=§oSchick!§r\nErhöht die Haltbarkeit nach deinen Statuswerten!
+modifier.fiery.name=Feurig
+modifier.fiery.desc=§oJunge, bist du heiß!§r\nSteckt deinen Gegner in Flammen und erhöht den Feuer-Schaden.
+modifier.fiery.extra=Feuerschaden: +%s
+modifier.fiery.extra2=Branddauer: %ss
+modifier.fortify.name=Ermutigt (%s)
+modifier.fortify.desc=§oImmer schneller, höher, weiter!§r\nGrablevel wird auf das selbe Level wie %s erhöht.
+modifier.harvestwidth.name=Weite++
+modifier.harvestwidth.desc=§oErweitert!§r\nErhöht die Weite des von deinem Werkzeug btroffenen Areals.\n Der Effekt variiert je nach Werkzeug.
+modifier.harvestheight.name=Höhe++
+modifier.harvestheight.desc=§oErhöht!§r\nErhöht die Höhe des von deinem Werkzeug btroffenen Areals.\n Der Effekt variiert je nach Werkzeug.
+modifier.haste.name=Flink
+modifier.haste.name2=Eilig
+modifier.haste.name3=Sehr Eilig
+modifier.haste.name4=Übereilig
+modifier.haste.name5=Äußerst übereilig
+modifier.haste.desc=§oHuiiiiii!§r\nDer Redstone-Impuls erhöht die Geschwindigkeit beim graben.
+modifier.knockback.name=Rückstoß
+modifier.knockback.desc=§oHomerun!§r\nWenn Schweine fliegen können.
+modifier.luck.name=Glück
+modifier.luck.name2=Glück 2
+modifier.luck.desc=§oDu glücklicher!!§r\n Du erhälst mehr Sachen beim Einsatz des Werkzeugs.
+modifier.necrotic.name=Nekrotisch
+modifier.necrotic.desc=§oIch fühl mich so lebendig!!§r\nDu wirst, abhängig von deinem Ausgeteilten Schaden, geheilt.
+modifier.necrotic.extra=Lebensentzug: +%s
+modifier.reinforced.name=Verstärkt
+modifier.reinforced.unbreakable=Haltbarkeit
+modifier.reinforced.desc=§oSo stark!§r\nErhöht je nach Level die Chance das Werkzeug nicht zu beschädigen um 15%.
+modifier.sharpness.name=Scharf
+modifier.sharpness.name2=Schärfer
+modifier.sharpness.name3=Am Schärfsten
+modifier.sharpness.name4=Messerscharf
+modifier.sharpness.name5=Affenscharf!
+modifier.sharpness.desc=§oAutsch!§r\nSchon beim hingucken tut's weh!.
+modifier.silktouch.name=Behutsamtkeit
+modifier.silktouch.desc=§oSei bloß vorsichtig!§r\nAbgebaute Blöcke lassen sich selbst und nicht ihre Drop-Gegenstände fallen.
+modifier.smite.name=Bann
+modifier.smite.desc=§oIch werde dich richten!§r\nEröht den Schaden gegenüber Untoten sehr stark.
+modifier.smite.extra=Vs Undead: +%s
+modifier.soulbound.name=Seelengebunden
+modifier.soulbound.desc=§oWahrlich unzertrennlich!§r\nNicht mal der Tod kann euch trennen.
+
+###################
+#  Werkzeug-Info  #
+###################
+item.tconstruct.pickaxe.desc=Die Spitzhacke ist ein präzises Bergbau-Werkzeug welches gegenüber Gesteinen und Erzen eine große Wirkung zeigt.\nOder kurz, sie macht Blöcke kaputt.
+item.tconstruct.shovel.desc=Die Schaufel ist gegenüber körnigeren Materialien (zb. Erde,Schnee oder Sand) am wirkungvollsten.\nAber schaufel dir nicht dein eigenes Grab!
+item.tconstruct.hatchet.desc=Das Beil kann zum fällen von Bäumen aber auch von Gegnern genutzt werden.\nChop chop!
+item.tconstruct.mattock.desc=Die Breithacke ist ein sehr vielseitiges Werkzeug, man kann es auf Holz, Erde oder Pflanzen einsetzen. Und sie hat 'nen ziemlichen Schlag drauf.\nRechtsklick: Erde pflügen
+item.tconstruct.broadsword.desc=Das Breitschwert ist die Standartwaffe jedes Abenteurers welches durch blocken den genommenen Schaden halbiert.\nAuch gut gegenüber Spinnenweben!
+item.tconstruct.longsword.desc=Das Langschwert ist eine offensive Waffe mit welcher man sich lauthals ins getümmel stürzen kann.\nRechtsklick: Aufspießen
+item.tconstruct.rapier.desc=Das Rapier ist eine Waffe mit welcer man mit schnellen starken Angriffen punkten kann.\nRechtsklick: Zurückweichen
+item.tconstruct.frypan.desc=Die Bratpfanne ist eine schwere Waffe mit welcher man etwas Abstand gewinnen kann. Da scheppert es richtig!\nRechtsklick: Schwerer Schlag
+item.tconstruct.battlesign.desc=Das Kampfschild ist die ultimative Defensiv-Waffe. Ein Fortschritt der Waffentechnik, einer ganzen Zombie Pigmen-Herde würdig.\nBlocken reduziert den Schaden und wirft Geschosse zurück.
+item.tconstruct.hammer.desc=Der Hammer ist ein großes Grabwerkzeug welches viele Blöcke auf einmal abbaut.\nEbenfalls gegenüber Untoten sehr effektiv!
+item.tconstruct.lumberaxe.desc=Die Breitaxt ist ein großes Holzfällungswerkzeug welches ganze Bäume mit einem Schwung fällen kann.\nTimber!
+item.tconstruct.excavator.desc=Der Spaten ist ein großes Grabwerkzeug welches Dreck, Sand und Schnee in einem weiten Areal schippen kann.\nTerraforming!
+item.tconstruct.cleaver.desc=Das Großschwert ist eine sehr brachiale aber schwierig zu händelnde Waffe.\nZu schwer zum blocken oder schnellem Schwingen!
+item.tconstruct.battleaxe.desc=Die Streitaxt ist eine Waffe welche den Berserker in dir erweckt. Es kann ebenso kleine Bäume fällen und deinen Gegnern das Fliegen beibringen.\nRechtsklick: Berserker
+item.tconstruct.scythe.desc=Die Sense ist ein Werkzeug mit welcher du in einem weiten Areal Pflanzen und deine Gegner nidermähen kannst.\nGevatter Tod wäre stolz auf dich!
+
+#################
+#  Bemerkungen  #
+#################
+tooltip.tool.modifiers=Verbesserungen
+tooltip.tool.broken=Zerbrochen
+tooltip.tool.holdShift=Halte §e§oShift§r um den Status anzeigen zu lassen
+tooltip.tool.holdCtrl=Halte §e§bStrg§r für mehr
+
+tooltip.part.material_added_by=Material von %s hinzugefügt
+tooltip.part.missing_material=Fehlendes Material: %s
+tooltip.part.missing_stats=Material besitzt nicht die nötigen Anfroderungen:\n%s
+tooltip.part.missing_info=Teil ist nicht existent
+
+tooltip.pattern.cost=Materialkosten: %d
+
+tooltip.chest.has_items=Enthält Items
+
+tooltip.tank.fluid=%s
+tooltip.tank.amount=%d mb
+
+##################
+#   UI Strings   #
+##################
+# general strings used in GUIs, tooltips and other display stuff
+
+ui.mininglevel.stone=Stein
+ui.mininglevel.iron=Eisen
+#ui.mininglevel.redstone=Redstone
+ui.mininglevel.diamond=Diamant
+ui.mininglevel.obsidian=Obsidian
+ui.mininglevel.cobalt=Kobalt
+
+# Death messages
+death.attack.smeltery=%s wollte geschmolzenen Spieler herstellen
+death.attack.splinter=%s hat sich einen RIESIGEN Splitter gezogen
+
+#######################
+# GUI Fehlermeldungen #
+#######################
+
+gui.error=FEHLER
+gui.warning=WARNUNG
+# GUI Errors from the different Tinker Tables
+gui.error.invalid_pattern=Schablone enthält kein gültiges Teil!
+gui.error.useless_tool_part=Mit diesem Teil kann man sich kein Werkzeug bauen!
+gui.error.wrong_material_part=Das Material eines oder mehrerer Teile kann nicht zum Werkzeugbau verwendet werden.
+gui.error.not_enough_durability=Unzureichende Haltbarkeit um Teile zu ersetzen!\n%d höhere Haltbarkeit von nöten.
+# GUI Errors from modifiers
+gui.error.not_enough_modifiers=Zu wenige Verbesserungen (%d benötigt)
+gui.error.single_modifier=%s kann nur einmal eingesetzt werden
+gui.error.max_level_modifier=%s's Höchstlevel wurde schon erreicht
+gui.error.no_modifier_for_item=Es konnte keine Verbesserung für %s gefunden werden
+gui.error.incompatible_modifiers=Die Verbesserungen %s und %s können nicht zusammen eingesetzt werden
+gui.error.incompatible_enchantments=Die Verbesserung %s kann nicht mit %s kombiniert werden
+
+################
+#     GUIs     #
+################
+
+# General things used in multiple GUIs
+gui.general.hover=Hover over the entries for more info
+
+# Creative Tabs
+itemGroup.TinkerGeneral=Tinkers' Standart-Items
+itemGroup.TinkerTools=Tinkers' Werkzeuge
+itemGroup.TinkerToolParts=Tinkers' Werkzeugteile
+itemGroup.TinkerSmeltery=Tinkers' Schmelzerei
+itemGroup.TinkerWorld=Tinkers' Welt
+itemGroup.TinkerGadgets=Tinkers' Geräte
+
+# Crafting Station
+gui.craftingstation.name=Werkstation
+
+# Stencil Table
+gui.stenciltable.name=Schablonentisch
+
+# PartBuilder
+gui.partbuilder.name=Teilstanzer
+gui.partcrafter.name=Teilstanzer
+gui.partbuilder.info=Hier kannst du deine Teile bauen um deine Tüftler-Fantasien auszuleben.\n\nDas Bauen eines Teiles ist einfach, lege einfach eine Schablone in den linken Slot. Die zwei anderen Slots sind für das Material aus was das Teil bestehen soll.
+
+# Tool Station/Forge
+gui.toolstation.name=Werkzeugstation
+gui.toolforge.name=Werkzeugschmiede
+gui.toolstation.repair=Reparieren und Modifizieren
+gui.toolstation.traits=Eigenschaften
+gui.toolstation.components=Komponenten
+gui.toolstation.info=Der Hauptweg zur Reparatur eines Werkzeugs ist es das zu reparierende Werkzeug und das passende Material hineinzulegen
+gui.toolstation.noTraits=Keine :[
+
+# Pattern Chest
+gui.patternchest.name=Schablonenkiste
+gui.castchest.name=Gussformkiste
+
+# Part Chest
+gui.partchest.name=Werkzeugteile-Kiste
+
+# Smeltery
+gui.smeltery.name=Schmelzerei
+gui.smeltery.progress.no_recipe=Item kann nicht geschmolzen werden
+gui.smeltery.progress.no_heat=Es ist nicht heiß genug um dieses Item zu schmelzen
+gui.smeltery.progress.no_space=Zu wenig Platz in der Schmelzerei
+gui.smeltery.fuel=Tank
+gui.smeltery.fuel.empty=Keine Tankfüllung gefunden
+gui.smeltery.fuel.heat=Temperatur: %d
+gui.smeltery.capacity=Kapazität
+gui.smeltery.capacity_available=Frei
+gui.smeltery.liquid.kilobucket=kbuc
+gui.smeltery.liquid.bucket=buc
+gui.smeltery.liquid.millibucket=mbuc
+gui.smeltery.liquid.ingot=Barren
+gui.smeltery.liquid.nugget=Nugget
+gui.smeltery.liquid.block=Block
+gui.smeltery.liquid.gem=Edelstein
+
+
+# JEI Plugin
+gui.jei.smelting.title=Schmilzt...
+gui.jei.alloy.title=Legiert...
+gui.jei.casting.title=Gießt...
+gui.jei.casting.consume=Verwendet Gussform!
+
+# Config
+config.synced.restart=Deine Konfiguration wurde geupdated um sich an den Server anzupassen. Bitte starte Minecraft neu.
+config.synced.ok= Deine Konfiguration wurde mit dem Server synchronisiert.
